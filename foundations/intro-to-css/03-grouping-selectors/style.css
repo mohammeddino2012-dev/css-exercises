@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.bu1,
+.bu2{
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman',sans-serif;
+}
+.bu1{
+    background-color: rgb(00, 00, 00);
+    color: #ffffff;
+}
+.bu2{
+    background-color: yellow;
+}
