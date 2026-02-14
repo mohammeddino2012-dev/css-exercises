@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.odd{
+    background-color: palevioletred;
+    font-family: "Verdana", "Dejavu Sans" sans-serif;
+}
+#no2{
+    color: blue;
+    font-size: 36px;
+}
+.px24{
+    font-size: 24px;
+}
+#no4{
+    background-color: lightgreen;
+    font-weight: bold;
+}
